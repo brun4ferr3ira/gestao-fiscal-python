@@ -19,3 +19,5 @@ Neste vídeo: emito uma nota com ISS, calculo ICMS e IPI com log de auditoria, i
 ## Conceitos praticados
 
 Funções, classes e métodos, decoradores (`functools.wraps`), regex (`re`), dicionários e listas, tratamento de erros (`try/except`), validação de entrada.
+
+## Como rodar
