@@ -30,6 +30,6 @@ Para executar o programa, abra o terminal na pasta do projeto e digite `python g
 - Os valores usam `float`; o ideal para dinheiro é `Decimal`
 - Faltam testes automatizados
 
-## Sobre o desenvolvimento
+## Como usei IA neste projeto
 
-Aprendi Python do básico ao intermediário e usei IA como apoio para entender cada trecho do código. A lógica fiscal vem da minha rotina de estudo e trabalho na área tributária.
+Usei IA como tutora: pedi que explicasse cada parte do código (decoradores, regex, classes) e depois reescrevi e testei por conta própria para garantir que entendi. A lógica fiscal e as regras de validação (como a faixa de 2% a 5% do ISS) vieram da minha rotina de estudo e trabalho na área tributária. Também encontrei e corrigi inconsistências, como a tabela de alíquotas que não batia com a validação da importação.
