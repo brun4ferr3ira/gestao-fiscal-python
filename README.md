@@ -21,3 +21,15 @@ Neste vídeo: emito uma nota com ISS, calculo ICMS e IPI com log de auditoria, i
 Funções, classes e métodos, decoradores (`functools.wraps`), regex (`re`), dicionários e listas, tratamento de erros (`try/except`), validação de entrada.
 
 ## Como rodar
+
+Para executar o programa, abra o terminal na pasta do projeto e digite `python gestao_fiscal.py`.
+
+## Limitações e próximos passos
+
+- As alíquotas de ICMS (18%) e IPI (5%) são fixas e ilustrativas, não refletem a legislação real, que varia por produto e UF
+- Os valores usam `float`; o ideal para dinheiro é `Decimal`
+- Falta testes automatizados
+
+## Sobre o desenvolvimento
+
+Aprendi Python do básico ao intermediário e usei IA como apoio para entender cada trecho do código. A lógica fiscal vem da minha rotina de estudo e trabalho na área tributária.
