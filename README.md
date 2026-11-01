@@ -4,7 +4,7 @@ Primeiro projeto autônomo em Python, criado para praticar lógica de programaç
 
 ## Como o sistema funciona na prática
 
-[▶ Assistir à demonstração](Como%20o%20sistema%20funciona%20na%20pr%C3%A1tica.mp4)
+[▶ Assistir à demonstração]([Como%20o%20sistema%20funciona%20na%20pr%C3%A1tica.mp4](https://youtu.be/HocqjTOFzcI))
 
 Neste vídeo: emito uma nota com ISS, calculo ICMS e IPI com log de auditoria, importo guias (as inválidas são rejeitadas com o motivo) e gero o relatório final.
 
