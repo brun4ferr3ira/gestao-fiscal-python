@@ -28,7 +28,7 @@ Para executar o programa, abra o terminal na pasta do projeto e digite `python g
 
 - As alíquotas de ICMS (18%) e IPI (5%) são fixas e ilustrativas, não refletem a legislação real, que varia por produto e UF
 - Os valores usam `float`; o ideal para dinheiro é `Decimal`
-- Falta testes automatizados
+- Faltam testes automatizados
 
 ## Sobre o desenvolvimento
 
