@@ -16,6 +16,6 @@ Neste vídeo: emito uma nota com ISS, calculo ICMS e IPI com log de auditoria, i
 - Gera relatório de faturamento e ISS a pagar
 - Menu interativo no terminal
 
-# Conceitos Praticados
+## Conceitos Praticados
 
 Funções, classes e métodos, decoradores (`functools.wraps`), regex (`re`), dicionários e listas, tratamento de erros (`try/except`), validação de entrada.
